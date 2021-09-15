@@ -1,0 +1,8 @@
+## Ignore these auxiliary files:
+
+1. Dependency caches (the contents of /node_modules or /packages)
+2. Compiled code (.o, .pyc, & .class)
+3. Build output directories (/bin, /out, or /target)
+4. Files generated at runtime (.log, .lock, or .tmp)
+5. Hidden system files (.DS_Store or Thumbs.db)
+6. Personal IDE config files (.idea/workspace.xml)
