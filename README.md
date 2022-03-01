@@ -13,7 +13,7 @@
 
 <a href="mailto:rajivr38@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://linkedin.com/in/rajiv-ranjan-sahu"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/rajivr38"><img height="30" src="https://img.shields.io/badge/-TWITTER-blue" /></a>
+<!-- <a href="https://twitter.com/rajivr38"><img height="30" src="https://img.shields.io/badge/-TWITTER-blue" /></a> -->
 
 
 ### Languages and Tools:
