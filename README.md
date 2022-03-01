@@ -9,16 +9,12 @@
 - ⚡ Fun fact: I love to play Badminton
 - 😻 Best way to reach me [sahu.raj@northeastern.edu](mailto:sahu.raj@northeastern.edu)
 
-### Connect with me:earth_asia:
+### Connect with me :earth_asia:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/rajivr38#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/rajivr38#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/rajiv-ranjan-sahu#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/rajiv-ranjan-sahu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/rajivranjansahu#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/rajivranjansahu#gh-dark-mode-only)
+<a href="mailto:rajivr38@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://linkedin.com/in/rajiv-ranjan-sahu]
+[<img height="30" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/twitter/twitter-original.svg" />][https://twitter.com/rajivr38]
+
 
 ### Languages and Tools:
 [<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-plain.svg" style="padding-right:10px;" />]
