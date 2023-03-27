@@ -4,8 +4,8 @@
 
 - 🔭 The languages that I use primarily are C/C++ and Java!
 - 🌱 I’m currently learning everything about Full Stack 🤣
-- 👯 I’m looking for Experiential Learning AKA Internship/ Co-op and to collaborate for Open Source Projects
-- 🥅 2022 Goals: Learn more about web3 and Design Patterns
+- 👯 I’m looking for Full Time postions and to collaborate for Open Source Projects
+- 🥅 2023 Goals: Learn more about web3 and Design Patterns
 - ⚡ Fun fact: I love to play Badminton
 - 😻 Best way to reach me [sahu.raj@northeastern.edu](mailto:sahu.raj@northeastern.edu)
 
