@@ -43,6 +43,6 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivranjan7&langs_count=4&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajivranjan7&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=rajivranjan7&color=79FFE1)  
