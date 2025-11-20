@@ -5,9 +5,9 @@
 - 🔭 The languages that I use primarily are C/C++ and Java!
 - 🌱 I’m currently learning everything about Full Stack 🤣
 - 👯 I’m looking for Full Time positions and to collaborate for Open Source Projects
-- 🥅 2023 Goals: Learn more about web3 and Design Patterns
+- 🥅 2026 Goals: Learn more about web3 and Design Patterns
 - ⚡ Fun fact: I love to play Badminton
-- 😻 Best way to reach me [sahu.raj@northeastern.edu](mailto:sahu.raj@northeastern.edu)
+- 😻 Best way to reach me [rajivsoftdev@gmail.com](mailto:rajivsoftdev@gmail.com)
 
 ### Connect with me :earth_asia:
 
